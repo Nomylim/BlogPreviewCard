@@ -82,11 +82,11 @@ main p {
     align-items: center;
 }
 
-.autor h3 {
+/*.autor h3 {
     margin: 10px;
     font-size: 0.8rem;
     font-weight: 800;
-}
+}*/
 
 .autor img {
     max-width: 20%;
